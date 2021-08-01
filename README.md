@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nekitalek
 - 👀 I’m interested in creating useful programs
 - 🌱 I’m currently learning Python and Assembler
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in telegram: nekitalek
 
 <!---
