@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nekitalek
 - 👀 I’m interested in creating useful programs
-- 🌱 I’m currently learning C++ and Assembly language
-- 📫 How to reach me in telegram: nekitalek
+- 🌱 I’m currently learning cryptosystems etc
+- 📫 How to reach me in telegram: @nekitalek
 
 <!---
 nekitalek/nekitalek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
