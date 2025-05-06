@@ -22,15 +22,15 @@ There are 10 types of people in the world. Those who get Binary and those who do
 
 ## Programming Languages
 
-<img src = 'https://github.com/nekitalek/nekitalek/blob/master/icons/c.svg' width='30'/>
-<img src = 'https://github.com/nekitalek/nekitalek/blob/master/icons/cplusplus.svg' width='30'/>
-<img src = 'https://github.com/nekitalek/nekitalek/blob/master/icons/css.svg' width='30'/>
-<img src = 'https://github.com/nekitalek/nekitalek/blob/master/icons/cgo.svg' width='30'/>
-<img src = 'https://github.com/nekitalek/nekitalek/blob/master/icons/javascript.svg' width='30'/>
-<img src = 'https://github.com/nekitalek/nekitalek/blob/master/icons/jupyter.svg' width='30'/>
-<img src = 'https://github.com/nekitalek/nekitalek/blob/master/icons/kotlin.svg' width='30'/>
-<img src = 'https://github.com/nekitalek/nekitalek/blob/master/icons/python.svg' width='30'/>
-<img src = 'https://github.com/nekitalek/nekitalek/blob/master/icons/postgresql.svg' width='30'/>
+<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/c.svg' width='30'/>
+<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/cplusplus.svg' width='30'/>
+<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/css.svg' width='30'/>
+<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/cgo.svg' width='30'/>
+<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/javascript.svg' width='30'/>
+<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/jupyter.svg' width='30'/>
+<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/kotlin.svg' width='30'/>
+<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/python.svg' width='30'/>
+<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/postgresql.svg' width='30'/>
 
 ## Who am I?
 
@@ -63,7 +63,7 @@ There are 10 types of people in the world. Those who get Binary and those who do
 
 ## Other Stuff
 
-* :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
+* :octocat: [My Resume](https://drive.google.com)
 
 ![nekitalek's github stats](https://github-readme-stats.vercel.app/api?username=nekitalek&show_icons=true&hide=[%22issues%22])
 
