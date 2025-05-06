@@ -22,8 +22,8 @@ There are 10 types of people in the world. Those who get Binary and those who do
 
 ## Programming Languages
 
-<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/c.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/cplusplus.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/css.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/cgo.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/javascript.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/jupyter.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/kotlin.svg' width='30'/>
-<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/python.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/postgresql.svg' width='30'/>
+<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/letter-c.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/c-.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/c-sharp.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/asm.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/js.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/html.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/database.svg' width='30'/>
+<img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/python.svg' width='30'/> <img src = 'https://github.com/nekitalek/nekitalek/blob/main/icons/text.svg' width='30'/>
 
 ## Who am I?
 
